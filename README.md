@@ -1,6 +1,13 @@
 **React Native Weather Application**
 Welcome to our React Native Weather Application! This app allows users to search for weather information for locations across the world. With this app, users can stay informed about current weather conditions, as well as forecasted weather for the next 7 days.
 
+![IMG_1038](https://github.com/Sai-TMA/TechForMobileApp/assets/167695707/00c4eddd-cedd-4f7a-b6c8-d14aa7200811)
+
+
+
+
+
+
 Features
 Location Search: Search for weather information by location name.
 Current Weather: Get real-time weather data including temperature, wind speed, and humidity.
